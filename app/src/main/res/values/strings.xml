@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Расписание</string>
+    <string name="pon"><b>Пн</b></string>
+    <string name="vtor"><b>Вт</b></string>
+    <string name="sred"><b>Ср</b></string>
+    <string name="chet"><b>Чт</b></string>
+    <string name="pyat"><b>Пт</b></string>
+    <string name="sub"><b>Сб</b></string>
+    <string name="audit">Ауд.</string>
+    <string name="todo">TODO</string>
+    <string name="info">Справочник</string>
+    <string name="info_settings">Функция не повлияет на производительность вашого устройства</string>
+    <string name="settings">Инверсии цветов</string>
+    <string name="menu_home">расписание</string>
+    <string name="menu_settings">настройки</string>
+    <string name="menu_enter">авторизация</string>
+    <string name="menu_information">справочник</string>
+    <string name="text_save">сохранить изменить</string>
+    <string name="text_settings_plyus">Ниже в текстовом поле введите ваш порядковый номер по журнал без дополнительных символов
+        "   "(« + » и « - »)</string>
+</resources>
